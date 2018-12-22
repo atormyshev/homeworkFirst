@@ -7,3 +7,8 @@ git remote add origin https://github.com/atormyshev/test.git
 git push -u origin master
 
 
+...for push
+
+git remote add origin https://github.com/atormyshev/test.git
+git push -u origin master
+
